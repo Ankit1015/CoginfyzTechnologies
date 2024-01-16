@@ -1,2 +1,2 @@
 # CoginfyzTechnologies
-Java Programs Application
+Java Program Application
